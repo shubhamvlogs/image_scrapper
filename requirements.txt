@@ -2,4 +2,5 @@ requests
  Beautiful Soup
  urllib
  pymongo
- 
+ logging
+ os
