@@ -1,0 +1,5 @@
+requests
+ Beautiful Soup
+ urllib
+ pymongo
+ 
