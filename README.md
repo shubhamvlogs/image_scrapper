@@ -1,2 +1,1 @@
-# Techenthusiast
-this was created to showcase my skills and learnings in data field
+"Looking to collect images for your next project? Look no further than my image_scrapper repository! With this Python-based web scraper, you can easily extract images from any website and store them directly into a MongoDB database. Not only does this save you valuable time and effort, but it also allows you to access your images in a more organized and efficient manner. Whether you're a beginner or an experienced developer, image_scrapper is the perfect tool for streamlining your image collection process."
